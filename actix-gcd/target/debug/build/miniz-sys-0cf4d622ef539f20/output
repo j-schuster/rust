@@ -1,0 +1,27 @@
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+HOST = Some("aarch64-apple-darwin")
+CC_aarch64-apple-darwin = None
+CC_aarch64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = None
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-arch" "arm64" "-DMINIZ_NO_STDIO" "-DMINIZ_NO_ARCHIVE_APIS" "-DMINIZ_NO_ARCHIVE_WRITING_APIS" "-DMINIZ_NO_TIME" "-DMINIZ_NO_ZLIB_COMPATIBLE_NAMES" "-o" "/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/build/miniz-sys-0cf4d622ef539f20/out/miniz.o" "-c" "miniz.c"
+exit status: 0
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/build/miniz-sys-0cf4d622ef539f20/out/libminiz.a" "/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/build/miniz-sys-0cf4d622ef539f20/out/miniz.o"
+exit status: 0
+running: "ar" "s" "/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/build/miniz-sys-0cf4d622ef539f20/out/libminiz.a"
+exit status: 0
+cargo:rustc-link-lib=static=miniz
+cargo:rustc-link-search=native=/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/build/miniz-sys-0cf4d622ef539f20/out
+cargo:root=/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/build/miniz-sys-0cf4d622ef539f20/out

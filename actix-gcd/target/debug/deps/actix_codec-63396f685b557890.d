@@ -1,0 +1,11 @@
+/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/deps/actix_codec-63396f685b557890.rmeta: /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/deps/libactix_codec-63396f685b557890.rlib: /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/jschuster/Apps/learning-rust/actix-gcd/target/debug/deps/actix_codec-63396f685b557890.d: /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs /Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs
+
+/Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/lib.rs:
+/Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/bcodec.rs:
+/Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed.rs:
+/Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_read.rs:
+/Users/jschuster/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-codec-0.1.2/src/framed_write.rs:
